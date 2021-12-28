@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/oneassure/static/css/main.94143ee2.css",
+    "main.css": "/oneassure/static/css/main.8d755c81.css",
     "main.js": "/oneassure/static/js/main.582dbc12.js",
     "static/js/787.f3687d76.chunk.js": "/oneassure/static/js/787.f3687d76.chunk.js",
     "index.html": "/oneassure/index.html",
-    "main.94143ee2.css.map": "/oneassure/static/css/main.94143ee2.css.map",
+    "main.8d755c81.css.map": "/oneassure/static/css/main.8d755c81.css.map",
     "main.582dbc12.js.map": "/oneassure/static/js/main.582dbc12.js.map",
     "787.f3687d76.chunk.js.map": "/oneassure/static/js/787.f3687d76.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.94143ee2.css",
+    "static/css/main.8d755c81.css",
     "static/js/main.582dbc12.js"
   ]
 }
